@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+
+    <!-- The dispatching period in seconds when Google Play services is unavailable. The
+    default period is 1800 seconds or 30 minutes -->
+    <integer name="ga_dispatchPeriod">60</integer>
+
+</resources>

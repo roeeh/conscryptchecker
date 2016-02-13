@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OpenSSLX509CertificateChecker</string>
+    <string name="action_settings">Settings</string>
+    <string name="report_consent">Pressing the REPORT button will upload the vulnerability status, <a href="http://developer.android.com/reference/android/os/Build.html">device build information</a> and kernel version to Google Analytics.</string>
+    <string name="vulnerable">VULNERABLE</string>
+    <string name="patched">PATCHED</string>
+    <string name="notvulnerable">NOT VULNERABLE</string>
+    <string name="submitted">"Submitted. Thank you!"</string>
+    <string name="reportButton">Report</string>
+    <string name="checking">Checking...</string>
+</resources>
